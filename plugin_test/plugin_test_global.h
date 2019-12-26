@@ -1,0 +1,12 @@
+#ifndef PLUGIN_TEST_GLOBAL_H
+#define PLUGIN_TEST_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(PLUGIN_TEST_LIBRARY)
+#  define PLUGIN_TESTSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define PLUGIN_TESTSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // PLUGIN_TEST_GLOBAL_H
