@@ -9,13 +9,6 @@
 *.so.*
 *.dll
 *.dylib
-*.exe
-*.obj
-*.stash
-*.ilk
-*.exp
-*.pdb
-*.lib
 
 
 # Qt-es
