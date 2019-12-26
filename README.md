@@ -7,10 +7,8 @@
 
 plugin_test项目的大部分源码采用以下生成
 
->  ![](C:\Users\Administrator\Desktop\plugin\App\QT5_Dll设置1.png)
->
->  ![QT5_Dll设置2](C:\Users\Administrator\Desktop\plugin\App\QT5_Dll设置2.png)
-
+>  ![](https://github.com/galepai/QT5_DLL/blob/master/QT5_Dll%E8%AE%BE%E7%BD%AE1.png)
+>  ![](https://github.com/galepai/QT5_DLL/blob/master/QT5_Dll%E8%AE%BE%E7%BD%AE2.png)
 
 
 ## 使用
